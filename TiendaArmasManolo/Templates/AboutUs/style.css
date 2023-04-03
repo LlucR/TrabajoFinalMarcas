@@ -1,0 +1,24 @@
+body{background-color: black; color: aliceblue;}
+h1{font-size:80px;text-align: center;}
+#presi{
+    height: auto;
+    width: 100%;
+    border-radius: 20%;
+    border: 2px solid white;
+    padding: 10px;
+    float: right;
+    
+}
+div.imagencita{
+    width: 20%;
+    float: right;
+}
+div#rajoyTexto{
+    width: 100%;
+    float: right;
+    
+}
+#presi:hover{
+    box-shadow: 0 0 10px 20px ;
+}
+
